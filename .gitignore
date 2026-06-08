@@ -1,0 +1,6 @@
+# Release artifacts uploaded via GitHub Releases
+*.exe
+*.exe.blockmap
+*.blockmap
+latest.yml
+latest-*.yml
